@@ -1,0 +1,16 @@
+// First
+POS=0,0,E
+FFFRFFF
+// Should be: 3,3,S
+
+// Second
+POS=1,1,N
+
+// Third
+POS=6,4,W
+BLFLFFFFFRFRFLFL
+BLBLBRBL
+// Should be: 11,9,W
+
+// Fourth
+POS=3,2,S
